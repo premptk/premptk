@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Ranjan Pattanayak</h1>
-<h3 align="center">Undergrad Student | Machine Learning Enthusiast | Competitive Coder | Developer</h3>
+<h3 align="center"> Machine Learning Enthusiast | Competitive Coder | Developer</h3>
 
 
 - 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
